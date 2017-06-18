@@ -10,13 +10,13 @@
 
 一.spider_fs.js运行后会自动生成一个spider_img的文件夹，里面就有爬下来的图片
 运行结果：
-![image](https://github.com/Brake-benji/Node.js/img/1.png)
+![image](https://github.com/Brake-benji/Node.js/blob/master/img/1.png)
 爬取结果：
-![image](https://github.com/Brake-benji/Node.js/img/2.png)
+![image](https://github.com/Brake-benji/Node.js/blob/master/img/2.png)
 
 
 二.spider_mysql.js爬取慕课网课程数据及视频地址
 爬取结果：
-![image](https://github.com/Brake-benji/Node.js/img/3.png)
+![image](https://github.com/Brake-benji/Node.js/blob/master/img/3.png)
 添加以下代码可防止中文乱码：
-![image](https://github.com/Brake-benji/Node.js/img/4.png)
+![image](https://github.com/Brake-benji/Node.js/blob/master/img/4.png)
