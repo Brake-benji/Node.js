@@ -1,7 +1,7 @@
 #node.js学习练手小demo
 #spider_fs.js爬取中国国家地理分类中的图片，可通过此案例了解node.js爬虫和node.js中的文件操作
 #spider_mysql.js爬取慕课网课程信息demo，可通过此案例了解node.js爬虫和node.js中mysql的操作
-
+#comment.js模拟表单提交，稍作修改即可实现灌水机器人的功能
 
 
 #使用方法   node spider_fs.js或者node spider_fs.js#
@@ -20,3 +20,8 @@
 ![image](https://github.com/Brake-benji/Node.js/blob/master/img/3.png)
 添加以下代码可防止中文乱码：
 ![image](https://github.com/Brake-benji/Node.js/blob/master/img/4.png)
+
+
+三.comment.js模拟表单提交
+运行结果：
+![image](https://github.com/Brake-benji/Node.js/blob/master/img/5.png)
